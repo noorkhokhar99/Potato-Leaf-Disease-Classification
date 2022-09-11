@@ -21,8 +21,6 @@
 #### Home page
 ![home](https://github.com/ashok49473/potato-disease-classifier/blob/master/images-md/home.png)
 
-#### About page
-![about](https://github.com/ashok49473/potato-disease-classifier/blob/master/images-md/about.png)
 
 #### Result page
 ![res](https://github.com/ashok49473/potato-disease-classifier/blob/master/images-md/result.png)
